@@ -1,8 +1,8 @@
-Nama Anggota Kelompok 9 dan Kontribusi : 
-1. 24082010141 Fatih Athala R: Menyatukan semua halaman dan mengatur alur aplikasi. (Fokus pada nav_graph_bekal.xml, MainActivity.kt, dan pengiriman data antar halaman)
-2. 24082010149 Ananda Daffa Arrayan: Mengelola penyimpanan data dan validasi input. (Fokus pada MenuBekal.kt, DataStokGlobal.kt, dan FragmentTambahStok.kt).
-3. 24082010160 Michelle Evelyn Dyvani: Bertanggung jawab penuh atas semua desain visual (file .xml).
-4. 24082010172 Masyito Indi Kartika: Membangun sistem daftar menu yang bisa di-scroll. (Fokus pada StokAdapter.kt dan item_stok.xml). 
+Nama Anggota Kelompok 9
+1. 24082010141 Fatih Athala R
+2. 24082010149 Ananda Daffa Arrayan
+3. 24082010160 Michelle Evelyn Dyvani
+4. 24082010172 Masyito Indi Kartika
 
 Deskripsi Aplikasi :
 Aplikasi POS Kasir sederhana yang mempunyai halaman dashboard utama, formulir tambah stok, melihat stok serta menampilkan 2 data yang baru ditambahkan 
