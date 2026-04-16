@@ -1,8 +1,6 @@
-Nama Anggota Kelompok 9
-1. 24082010141 Fatih Athala R
-2. 24082010149 Ananda Daffa Arrayan
-3. 24082010160 Michelle Evelyn Dyvani
-4. 24082010172 Masyito Indi Kartika
+Michelle Evelyn Dyvani
+
+NPM: 24082010160 - Clan 9
 
 Deskripsi Aplikasi :
 Aplikasi POS Kasir sederhana yang mempunyai halaman dashboard utama, formulir tambah stok, melihat stok serta menampilkan 2 data yang baru ditambahkan 
